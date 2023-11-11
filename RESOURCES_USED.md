@@ -4,5 +4,7 @@ Create a REST API on AWS | Step by Step Tutorial  -->                           
 
 Create a custom mapping template in API Gateway to convert the event sent to Lambda into what you are expecting. --> https://stackoverflow.com/questions/73251281/aws-api-gateway-post-request-is-not-working-for-lambda-function
 
+Build a CRUD Serverless API with AWS Lambda, API Gateway and a DynamoDB from Scratch -->                             https://www.youtube.com/watch?v=Ut5CkSz6NR0
 
+AWS Lambda and API Gateway: A Beginner's Guide to Common Challenges | GET and POST Request | Python  -->             https://www.youtube.com/watch?v=ssELTRQYelA
 
