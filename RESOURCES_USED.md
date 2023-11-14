@@ -8,3 +8,4 @@ Build a CRUD Serverless API with AWS Lambda, API Gateway and a DynamoDB from Scr
 
 AWS Lambda and API Gateway: A Beginner's Guide to Common Challenges | GET and POST Request | Python  -->             https://www.youtube.com/watch?v=ssELTRQYelA
 
+Step by Step Guide How To Create AWS Architecture Diagram For Beginners -->                                          https://www.youtube.com/watch?v=1UyGTFm4l2E
